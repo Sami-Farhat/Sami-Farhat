@@ -10,7 +10,7 @@ Intrested in IT
 * 🖥️  See my portfolio at [Soon](http://github.com/Sami-Farhat/Portfolio)
 * ✉️  You can contact me at [sami.farhat2007@gmail.com](mailto:sami.farhat2007@gmail.com)
 * 🚀  I'm currently working on [Discord Clone Website](http://github.com/Sami-Farhat/Discord-Clone)
-* 🧠  I'm learning React
+* 🧠  I'm learning C#
 * ⚡  Really intrested in networking
 
 ### Skills
